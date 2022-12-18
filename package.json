@@ -1,0 +1,27 @@
+{
+  "name": "Draphline-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallen-ecstasy/Draphline-prototype.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallen-ecstasy/Draphline-prototype/issues"
+  },
+  "homepage": "https://github.com/fallen-ecstasy/Draphline-prototype#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-as-promised": "^7.1.1"
+  }
+}
